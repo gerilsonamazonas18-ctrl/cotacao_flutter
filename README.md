@@ -1,6 +1,6 @@
 # cotacoes_app
 
-projeto: Cotação Flutter
+Esse projeto foi feito a partir de um desafio de estágio, onde que fiquei 5 dias seguidos e corridos aprendendo Flutter(Dart também). Então tudo que está aqui foi minha tentativa de mostrar minha capacidade de aprender novas linguagens, minha determinação em tentar me colocar em desafios. É uma linguagem muita boa de se aprender, confesso que me chamou muita atenção e futuramente irei aprender muito mais.
 
 ## INSTALAÇÃO
 
@@ -72,3 +72,7 @@ no arquivo pubspec.yaml:
 	Pacote http: pub.dev/packages/http
 	API: https://api.exchangerate-api.com/v4/latest/USD
 	Cursos e vídeos
+
+## AGRADECIMENTO
+
+Agradeço muito a Bemol Digital de Itacoatiara em me colocar nesse desafio e me tirar da acomodação de não conhecer novas áreas
